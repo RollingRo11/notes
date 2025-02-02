@@ -4,7 +4,7 @@
 > There is an integer $a$ such that $4 \mid\left(a^{2}+1\right)$.
 > You may use:
 > - the fact that an integer $a$ is either even or odd and not both
->- the Division Algorithm
+> - the Division Algorithm
 
 
 
