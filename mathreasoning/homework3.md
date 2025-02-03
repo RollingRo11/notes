@@ -9,8 +9,10 @@
 
 
 
+---
 ## 2. ( 30 pts) Let $x$ and $y$ be integers. Prove by contrapositive:
 > If $x+y$ and $x y$ are even, then $x$ and $y$ are even.
+
 
 
 ## 3. ( 30 pts) Prove by contradiction:
